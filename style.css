@@ -1,0 +1,19 @@
+img{width: 200px;
+    display: block;
+    margin: 0 auto;}
+    
+
+body{
+    background: pink
+    }
+
+h2{
+    text-align: center;
+    color: blue;
+    font-family: 'Monaco'}
+
+p{text-align: center;
+    color: red;
+    font-family: 'Monaco';
+    font-size: 18px
+    }
